@@ -1,0 +1,1 @@
+# django-courses_midterm
